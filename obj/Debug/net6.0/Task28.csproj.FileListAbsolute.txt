@@ -1,0 +1,15 @@
+D:\Учеба\Новая папка (2)\Task28\bin\Debug\net6.0\Task28.exe
+D:\Учеба\Новая папка (2)\Task28\bin\Debug\net6.0\Task28.deps.json
+D:\Учеба\Новая папка (2)\Task28\bin\Debug\net6.0\Task28.runtimeconfig.json
+D:\Учеба\Новая папка (2)\Task28\bin\Debug\net6.0\Task28.dll
+D:\Учеба\Новая папка (2)\Task28\bin\Debug\net6.0\Task28.pdb
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.dll
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\refint\Task28.dll
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.pdb
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+D:\Учеба\Новая папка (2)\Task28\obj\Debug\net6.0\ref\Task28.dll
